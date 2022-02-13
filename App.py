@@ -1,11 +1,7 @@
 """
 Projet: GUI pour la recherche des fichiers avec le module tkinter
 Periode: 20 Juillet au 03 Aout 2021
-Equipe 3: Banzouzi Neldy, Diba de Palmes Emmanuel, Lounguela Kaya,
-            Makenzo Souvenance, Makoundou Alrvaro, Metowanou Ruth ,Ngambou Clesh
-Superviseur: Mr Marc Mfoutou Moukala
-
-Unisersité Marien Ngouabi
+Team@3
 Licence 2 Informatique
 
 """
